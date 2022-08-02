@@ -1,0 +1,15 @@
+***** GUIONES *****
+
+<!DOCTYPE html> para navegadores viejos.
+<html> Para iniciar el codigo.
+<head> Cambiar encabezado pagina.
+<title> Poner Titulo de encabezado.
+<script> Para meter codigo JavaScript.
+<body> Llenar cuerpo pagina.
+<h1> poner titular en cuerpo pagina.
+<p> poner parrafos en cuerpo pagina.
+<meta charset="utf-8" /> Para que lea tildes Ñ ETC.(dentro de head)
+
+let : para declarar variables. (dentro script)
+prompt(""): para pedir datos. (dentro script)
+alert(""): Para mostrar mensajes.  (dentro script) 

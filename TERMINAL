@@ -1,0 +1,30 @@
+ ***** PRINCIPALES COMANDOS *****
+
+
+
+1. (cd /home/) Para ir al inicio
+1. (ls) Para listar los archivos.
+1. (sudo su) + PASS para ingresar como administrador Root
+2. (exit) Salir del modo Root
+3. (touch XXX) para crear archivo
+3. (touch XXX XXX  XXX) para crear varios archivos.
+
+
+
+
+2. (ls -lh) Listar archivos y ver su peso tamaño.
+3. (ls -a)  Listar archivos ocultos.
+4. (pwd) Ver la ruta en la que estamos.
+5. (cd) Para movernos entre carpetas.
+6. (mkdir) Crear directorio o carpetas.
+6. (mkdir XXX XXX XXX) Crear varios directorio o carpetas.
+7. (cp XXX XXX_bk) Para copiar archivos.
+8. (rm) Para borrar archivos.
+9. (mv) Para mover archivos. 
+10. (rmdir) Para borrar n directorio.
+11. (clear/ Ctrol + L) Limpiar terminar. 
+12. (cd ..) Para ir atras entre carpetas.
+13. (file) Para ver el tipo o formato de los archivos.
+14. (adduser XXXX) para crear nuevos usuarios.(se agrega pass)
+
+
